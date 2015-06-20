@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  monthly_payment: 1.5
+  interest_rate: 1.5
+  principal_remaining: 1.5
+  interest_payment: 1.5
+  principal_payment: 1.5
+
+two:
+  monthly_payment: 1.5
+  interest_rate: 1.5
+  principal_remaining: 1.5
+  interest_payment: 1.5
+  principal_payment: 1.5
